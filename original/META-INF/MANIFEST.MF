@@ -1,0 +1,89 @@
+Manifest-Version: 1.0
+
+Name: AndroidManifest.xml
+SHA1-Digest: pa7qeIZUfoApMtyQLi3eQUL4JWk=
+
+Name: lib/arm64-v8a/libFNVfbEngineHAL_legacy.so
+SHA1-Digest: IoUIUB856FXInfFGP0pE4ssIVUA=
+
+Name: lib/arm64-v8a/libNvBeautyEffect.so
+SHA1-Digest: zYD1BJsvZoN58dPsv25iBt4gpG0=
+
+Name: lib/arm64-v8a/libSNPE.so
+SHA1-Digest: qQ78UhbePMPyD7cPPh7lZ3KfAvA=
+
+Name: lib/arm64-v8a/libSuperSensor.so
+SHA1-Digest: vaEyX/ZZaTTBvHaNCa1Z05B3E3E=
+
+Name: lib/arm64-v8a/libSuperSensorCPU.so
+SHA1-Digest: 8ApysC2q9WJaRHwX0CGvRvEhmXk=
+
+Name: lib/arm64-v8a/libSuperSensorProcessor.so
+SHA1-Digest: f2DicqjM+LacKO1iqUXz1m665hw=
+
+Name: lib/arm64-v8a/libSuperSensorProcessorCWrapper.so
+SHA1-Digest: G2Pnpx1yPnUs+zUaMXlWvREMhI8=
+
+Name: lib/arm64-v8a/libarcsoft_dualcam_refocus.so
+SHA1-Digest: Tod4pI1dm7M++FBj7kudvt+4WOI=
+
+Name: lib/arm64-v8a/libarcsoft_hdr_scbokeh_image.so
+SHA1-Digest: LC2enBc+1VFqfkJeaxse4Lnx0ag=
+
+Name: lib/arm64-v8a/libarcsoft_high_dynamic_range.so
+SHA1-Digest: LTQ0Kau80dvLPLjG1KzE2LtU8gA=
+
+Name: lib/arm64-v8a/libarcsoft_multiframe_bokeh_image.so
+SHA1-Digest: oqxtpwqbydQqxShxJ7uPqnlRoFw=
+
+Name: lib/arm64-v8a/libarcsoft_scbokeh_Generic.so
+SHA1-Digest: X1GZbLiSmbnCIrwhGlFNs7HTmLg=
+
+Name: lib/arm64-v8a/libarcsoft_supernight.so
+SHA1-Digest: H2x0dEDcou7BZlah5TmH6OiKAlc=
+
+Name: lib/arm64-v8a/libarcsoft_superportrait.so
+SHA1-Digest: fOKTjKkxH9i3PyTWWxyAW9MlpwA=
+
+Name: lib/arm64-v8a/libdynamic_depth.so
+SHA1-Digest: UV8DEyoIbxXFZd2JsZLt5e7Kfik=
+
+Name: lib/arm64-v8a/libfn-beauty-vfb-legacy-base.so
+SHA1-Digest: 8KckSe5x7WOuy9V4NXbC861fpcs=
+
+Name: lib/arm64-v8a/libgif.so
+SHA1-Digest: MQ1wjwybYMBlUUwePxU0yLo0fH0=
+
+Name: lib/arm64-v8a/libjpeg.so
+SHA1-Digest: pR9t3iptfrETeKJXWl5r9iWhW7s=
+
+Name: lib/arm64-v8a/liblenovo_panorama.so
+SHA1-Digest: E8i2zCNm7qRsX8t+s2ZaW6XTjtQ=
+
+Name: lib/arm64-v8a/libmcf-qc-fd-offline_local.so
+SHA1-Digest: mdLbqxUuItauPVUs7joXL8iGuiQ=
+
+Name: lib/arm64-v8a/libmmcamera_faceproc2.so
+SHA1-Digest: HHMtWL8kyTn1aM2jQDGOW4c9zjs=
+
+Name: lib/arm64-v8a/libmorpho_cinema_graph.so
+SHA1-Digest: xomjc09pY7atS+Op3frgDByCrLA=
+
+Name: lib/arm64-v8a/libmpbase.so
+SHA1-Digest: BwIcOau8XIU49t8YdqPrMBX/nCo=
+
+Name: lib/arm64-v8a/libsmart_ppt.so
+SHA1-Digest: G6JKF6BJ4XXlUJqeocujiUAVnvw=
+
+Name: lib/arm64-v8a/libtensorflowlite.so
+SHA1-Digest: F/lNxCciB4jbjxDWWNOjMEiKx9Y=
+
+Name: lib/arm64-v8a/libtensorflowlite_gpu_delegate.so
+SHA1-Digest: ghvL7OJ9R8SdqsAKZf30ghO++tE=
+
+Name: lib/arm64-v8a/libtiff.so
+SHA1-Digest: a1VACOd+Rp/PCmUuAYE40Q81UNc=
+
+Name: stamp-cert-sha256
+SHA1-Digest: 5vTkm69vqAbusD/fho7oWwc7j+I=
+
